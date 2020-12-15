@@ -1,0 +1,18 @@
+{
+  "name": "Andrii",
+  "age": 23,
+  "adulthood": true,
+  "relatives": 7,
+  "mother": {
+    "name": "Olena",
+    "age": 55,
+    "adulthood": true,
+    "relatives": 9
+  },
+  "father": {
+    "name": "Viktor",
+    "age": 56,
+    "adulthood": true,
+    "relatives": 11
+  }
+}
